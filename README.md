@@ -1,4 +1,4 @@
-# FACEIT Stats Notifier
+# HLTV News Notifier
 
 This Python script sends you the latest HLTV News in your Windows Notification.
 
